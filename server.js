@@ -14,7 +14,7 @@ app.use(
   cors({
     origin: [
       "http://localhost:5173",
-      "https://movies-backend-4bx3.onrender.com/",
+      "https://movies-frontend-beryl-beta.vercel.app/",
     ],
     credentials: true,
   })
